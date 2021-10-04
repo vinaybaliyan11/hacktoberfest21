@@ -1,0 +1,17 @@
+Conversion Report:
+Created by AutoCAD DWG Convert 18 July 2021, 14:57.
+
+Conversion Summary
+------------------
+Conversion File Format:  AutoCAD 2004/LT 2004 Drawing Format
+Conversion package type: In-place (overwrite files)
+Converted DWG files:     0
+Recovered DWG files:     0
+Conversion errors:       1
+
+
+Conversion Errors
+-----------------
+Unconverted files:
+The files listed below could not be saved due to a sharing violation or disk write problem.
+C:\Users\PURNIMA SINGH\Documents\COMP ASSIGNMENT.dwg
