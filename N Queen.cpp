@@ -7,7 +7,7 @@ int isSafe(char mat[][N], int r, int c)
     for (int i = 0; i < r; i++)
     {
         if (mat[i][c] == 'Q') {
-            return 0;
+            return 0; 
         }
     }
  
